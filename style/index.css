@@ -168,7 +168,7 @@ footer{display: inline-block;
     .buttons{border:1px outset slategray}
 
     @media(max-width:800px){
-        body{background-color: palevioletred;}
+        body{background-color:wheat;}
     .link{width: 65%;
         background-color: snow;
     color:black;
